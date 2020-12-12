@@ -8,5 +8,5 @@ I'm a Web Developer who loves to create web based, innovative solutions to peopl
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: Supply me with good books, internet connectivity and food and I'm never going out again. (Not so fun, I know.)
 
-## N.B: I'm currently looking for full-time Web Developer roles
+N.B: I'm currently looking for full-time Web Developer roles
 
