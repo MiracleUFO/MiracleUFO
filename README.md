@@ -1,6 +1,6 @@
 ## Hey... I'm Miracle 👋
 
-I'm a Fullstack Web Developer who loves to create web based, innovative solutions to people problems. 
+I'm a Fullstack Developer who loves to create web based, innovative solutions to people problems. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing styling tweaks.
 
 - 🔭 I’m currently working on Chartit, an app for quickly calculating statistics and creating downloadable charts for students & businesses.
@@ -9,5 +9,5 @@ My toolkit consists mostly of MERN, and it would seem that I'm prone to committi
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: Supply me with good books, internet connectivity and food and I'm never going out again. (Not so fun, I know...)
 
-N.B: I'm currently open to Fullstack roles.
+N.B: I am currently open to Fullstack Web Developer roles.
 
