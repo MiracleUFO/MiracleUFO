@@ -1,4 +1,4 @@
-## Hey... I'm Miracle 👋
+## Heyy... I'm Miracle 👋
 
 I'm a Fullstack Developer who loves to create web based, innovative solutions to people problems. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweak one after the other.
