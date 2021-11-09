@@ -9,5 +9,5 @@ My toolkit consists mostly of MERN, and it would seem that I'm prone to committi
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: Supply me with good books, internet connectivity and food and I'm never going out again. (Not so fun, I know...)
 
-N.B: Currently open to Fullstack Web Developer roles.
+Currently open to hauling stuff on interesting projects.
 
