@@ -1,7 +1,7 @@
 ## Heyyy... I'm Miracle 👋
 
 I'm a Fullstack Developer who loves to create web based, innovative solutions to people problems. 
-My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweak one after the other.
+My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other.
 
 - 🔭 I’m currently working on Chartit, an app for quickly calculating statistics and creating downloadable charts for students & businesses.
 - 🌱 I’m currently learning to optimize Javascript speed  i.e increase runtime and development speed.
