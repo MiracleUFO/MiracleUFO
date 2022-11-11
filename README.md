@@ -3,7 +3,7 @@
 I'm a Fullstack Developer who loves to create web based, innovative solutions to people problems. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other.
 
-- 🔭 I’m currently working on Perfit and some other cool stuff.
+- 🔭 I’m currently working on Climactic and some other cool stuff.
 - 🌱 I’m currently learning to optimize Javascript speed  i.e increase runtime and development speed, webGL, and web3.
 - 👯 Hit me up. I’m looking to collaborate on web applications driving social change and presenting innovative solutions. 
 - 😄 Pronouns: She/Her/They
