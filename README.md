@@ -1,9 +1,9 @@
 ## Heyyy... I'm Miracle 👋
 
-### The 'short bio':
+**The 'short bio':**
 I'm human. I build stuff good.
 
-### The 'professional bio':
+**The 'professional bio':**
 I'm a Fullstack SDE (Software Development Engineer) who loves to create web-based, innovative solutions to _people problems_. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other. I do mobile too but don't tell anyone.
 
