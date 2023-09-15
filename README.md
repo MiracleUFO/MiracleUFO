@@ -1,7 +1,10 @@
 ## Heyyy... I'm Miracle 👋
 
-I'm a Fullstack Software Development Engineer (SDE) who loves to create web-based, innovative solutions to _people problems_. 
+The 'real real': I'm human and I build stuff.
+
+The 'professional bio': I'm a Fullstack SDE (Software Development Engineer) who loves to create web-based, innovative solutions to _people problems_. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other.
+PS: I do mobile too but _shh.._ don't tell anyone.
 
 - 🔭 I’m currently working on react-g-translator and some other cool stuff.
 - 🌱 I’m currently learning to optimize Javascript speed i.e. increase runtime and development speed, webGL, and to use new DevOps tools.
