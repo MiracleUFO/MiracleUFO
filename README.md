@@ -1,8 +1,10 @@
-## Heyyy... I'm Miracle 👋
+## Heyyy... I'm Miracle 👋 🛸
 
-The 'short bio': I'm human. I build stuff good.
+The 'short bio':
+I'm human. I build stuff good.
 
-The 'professional bio': I'm a Fullstack SDE (Software Development Engineer) who loves to create web-based, innovative solutions to _people problems_. 
+The 'professional bio':
+I'm a Fullstack SDE (Software Development Engineer) who loves to create web-based, innovative solutions to _people problems_. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other. I do mobile too but don't tell anyone.
 
 - 🔭 I’m currently working on react-g-translator and some other cool stuff.
