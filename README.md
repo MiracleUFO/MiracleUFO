@@ -1,9 +1,9 @@
-## Heyyy... I'm Miracle 👋 🛸
+## Heyyy... I'm Miracle 👋
 
-The 'short bio':
+# The 'short bio':
 I'm human. I build stuff good.
 
-The 'professional bio':
+# The 'professional bio':
 I'm a Fullstack SDE (Software Development Engineer) who loves to create web-based, innovative solutions to _people problems_. 
 My toolkit consists mostly of MERN, and it would seem that I'm prone to committing several styling tweaks one after the other. I do mobile too but don't tell anyone.
 
@@ -13,4 +13,4 @@ My toolkit consists mostly of MERN, and it would seem that I'm prone to committi
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: Supply me with good books, internet connectivity and food and I'm never going out again. (Not so fun, I know...)
 
-Currently open to hauling stuff on interesting projects.
+Currently open to hauling stuff on interesting projects. 🛸
