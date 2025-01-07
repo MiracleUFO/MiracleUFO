@@ -14,3 +14,5 @@ My toolkit consists mostly of MERN, and it would seem that I'm prone to committi
 - ⚡ Fun fact: Supply me with good books, internet connectivity and food and I'm never going out again. (Not so fun, I know...)
 
 Currently open to hauling stuff on interesting projects. 🛸
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/miracleufo/find-me-on-cm-b.svg)](https://www.codementor.io/@miracleufo?refer=badge)
