@@ -16,6 +16,6 @@ My toolkit consists mostly of MERN, and it would seem that I'm prone to committi
 Currently open to hauling stuff on interesting projects. 🛸
 
 
-**Get Help:**
+**Get Code & Career Help:**
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/miracleufo/find-me-on-cm-b.svg)](https://www.codementor.io/@miracleufo?refer=badge)
